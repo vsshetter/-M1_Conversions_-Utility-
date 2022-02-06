@@ -32,5 +32,5 @@ In digital electronics, the number system is used for representing the informati
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
  * HL-3_LL2 System should consider time factor and it shoud give output in less time.
 
-## Research
-![114319584-bbb68000-9b2f-11eb-9044-67c8093a5842](https://user-images.githubusercontent.com/46949062/152692054-f5405fe3-b2d9-449c-b6b2-892ca1d42283.png)
+## table
+
