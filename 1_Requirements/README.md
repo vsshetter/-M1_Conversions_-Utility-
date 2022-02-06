@@ -33,8 +33,3 @@ In digital electronics, the number system is used for representing the informati
  * HL-3_LL2 System should consider time factor and it shoud give output in less time.
 
 ## table
-![Table-Listing-Binary-Gray-BCD-Express-3-Coding-Decimal-Digits](https://user-images.githubusercontent.com/46949062/152692581-dce2ced6-e867-4595-b332-5cd819ccfda0.jpg)
-
-
-
-
