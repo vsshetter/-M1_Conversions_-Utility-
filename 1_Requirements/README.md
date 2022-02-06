@@ -1,15 +1,6 @@
 # Introduction 
 
-In digital electronics, the number system is used for representing the information. In this project the user gives input in the form of decimal number then the system converts it to binary,hexa,octal,bcd,excess-3,gray. The application of this is used to avoid hacking ,for encryption and avoids misuse of data. Most of all computer's architecture is in the form of number system [oct,hex].
-
-# Features
-
-![new features](https://user-images.githubusercontent.com/46949062/152683888-2d83bd98-2ad2-4d2f-b51c-a00879660c49.jpg)
-
-
-
-
-
+The number system is used for representing the information. In this project the user gives input in the form of decimal number then the system converts it to binary,hexa,octal,bcd,excess-3,gray. The application of this is used to avoid hacking ,for encryption and avoids misuse of data. Most of all computer's architecture is in the form of number system [oct,hex].
 
 # Requirements
 
