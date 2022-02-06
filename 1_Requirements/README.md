@@ -33,6 +33,6 @@ In digital electronics, the number system is used for representing the informati
  * HL-3_LL2 System should consider time factor and it shoud give output in less time.
 
 ## table
-![114319584-bbb68000-9b2f-11eb-9044-67c8093a5842](https://user-images.githubusercontent.com/46949062/152692286-2048fbec-6dd0-48e4-9860-fa29c7ab4739.png)
+
 
 
