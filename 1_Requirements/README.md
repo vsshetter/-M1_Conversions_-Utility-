@@ -19,7 +19,6 @@ In digital electronics, the number system is used for representing the informati
   * HL-1 System should take the decimal input and store it
   * HL-2 System able to convert the input numbers into any other number system like decimal,hex,oct,bcd
   * HL-3 Output sould displayed without any errors
-  * HL-4 It should take less time
 
 
 
@@ -31,6 +30,6 @@ In digital electronics, the number system is used for representing the informati
  * HL-2_LL2 System should consider time factor and it shoud give output in less time.
 
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
-  * HL-3_LL2
+ * HL-3_LL2 System should consider time factor and it shoud give output in less time.
 
 
