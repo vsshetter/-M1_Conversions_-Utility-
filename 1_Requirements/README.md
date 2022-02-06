@@ -27,7 +27,8 @@ In digital electronics, the number system is used for representing the informati
 ** HL-1_LL1  System need to verify whether the given input is in decimal form or not.
  * HL-1_LL2  If input it is not in decimal system allow user to re enter the input.
        
-** HL-2_LL1 System must know the all conversion techniques with the help of certaain methods applied by the devolaper.                                                             * HL-2_LL2 System should consider time factor and it shoud give output in less time.
+** HL-2_LL1 System must know the all conversion techniques with the help of codes.
+ * HL-2_LL2 System should consider time factor and it shoud give output in less time.
 
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
   * HL-3_LL2
