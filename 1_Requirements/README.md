@@ -32,4 +32,25 @@ In digital electronics, the number system is used for representing the informati
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
  * HL-3_LL2 System should consider time factor and it shoud give output in less time.
 
-## table
+## Swat analysis
+# Strenghts
+* Avalibility of resources
+* Research
+* Devolapment of system
+* Applying skills
+
+# Weaknesses
+* Time
+* Complexity of system
+* Deadlines
+* Does not include negative number
+
+# Opportunities
+* Optimization of current system
+* Enhancement of system efficiency
+* Can be used for encryption 
+
+# Threats
+* 
+
+
