@@ -4,6 +4,7 @@ In digital electronics, the number system is used for representing the informati
 
 # Features
 
+![new features](https://user-images.githubusercontent.com/46949062/152683888-2d83bd98-2ad2-4d2f-b51c-a00879660c49.jpg)
 
 
 
