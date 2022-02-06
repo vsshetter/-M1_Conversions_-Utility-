@@ -51,6 +51,6 @@ In digital electronics, the number system is used for representing the informati
 * Can be used for encryption 
 
 # Threats
-* 
+* Different innovative methods will become threat 
 
 
