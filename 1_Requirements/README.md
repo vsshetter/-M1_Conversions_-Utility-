@@ -4,7 +4,6 @@ The number system is used for representing the information. In this project the 
 
 
 # Research
-
 ![research](https://user-images.githubusercontent.com/46949062/153375957-9c2a324c-0dd0-47ec-9f0e-4bd459d7d3fd.jpg)
 
 # Requirements
@@ -14,8 +13,6 @@ The number system is used for representing the information. In this project the 
   * HL-1 System should take the decimal input and store it
   * HL-2 System able to convert the input numbers into any other number system like decimal,hex,oct,bcd
   * HL-3 Output sould displayed without any errors
-
-
 
 ## Low Level Requirements
 ** HL-1_LL1  System need to verify whether the given input is in decimal form or not.
