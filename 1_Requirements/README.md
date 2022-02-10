@@ -24,7 +24,7 @@ The number system is used for representing the information. In this project the 
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
  * HL-3_LL2 Output must be unstood by the user.
 
-## Swot analysis
+## SWOT Analysis
 # Strenghts
 * Avalibility of resources
 * Research
