@@ -10,19 +10,19 @@ The number system is used for representing the information. In this project the 
 
 ## High Level Requirements
   # Features of my project
-  * HL-1 System should take the decimal input and store it
-  * HL-2 System able to convert the input numbers into any other number system like decimal,hex,oct,bcd
+  * HL-1 System should take the input based on the choice given by the user
+  * HL-2 System able to convert the input numbers into any other number system like decimal,hex,oct,binary.
   * HL-3 Output sould displayed without any errors
 
 ## Low Level Requirements
-** HL-1_LL1  System need to verify whether the given input is in decimal form or not.
- * HL-1_LL2  If input it is not in decimal system allow user to re enter the input.
+** HL-1_LL1  System need to verify whether the given input is in correct form or not.
+ * HL-1_LL2  If input it is not in required system needs allow user to re enter the input.
        
 ** HL-2_LL1 System must know the all conversion techniques with the help of codes.
  * HL-2_LL2 System should consider time factor and it shoud give output in less time.
 
 ** HL-3_LL1 System must give the output in the defined way(like binary output must be with 0's and 1 forms).
- * HL-3_LL2 Output must be unstood by the user.
+ * HL-3_LL2 Output must be understood by the user.
 
 ## SWOT Analysis
 # Strenghts
