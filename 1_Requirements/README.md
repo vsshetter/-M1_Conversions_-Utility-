@@ -5,6 +5,9 @@ The number system is used for representing the information. In this project the 
 
 # Research
 
+![research](https://user-images.githubusercontent.com/46949062/153375957-9c2a324c-0dd0-47ec-9f0e-4bd459d7d3fd.jpg)
+
+
 # Requirements
 
 
