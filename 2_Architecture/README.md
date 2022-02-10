@@ -7,3 +7,4 @@
 
 
 ## Structural diagram
+![Untitled Workspace (1)](https://user-images.githubusercontent.com/46949062/153364502-7a2a56c5-dfcf-40e7-8b2e-d6c8d55bb0ce.png)
