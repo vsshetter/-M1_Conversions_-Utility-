@@ -4,3 +4,6 @@
 
 ## Behavioural diagram
 ![Untitled Workspace (1)](https://user-images.githubusercontent.com/46949062/153153922-462f41c5-ef9a-49b8-ad8c-3f9e34a70de6.png)
+
+
+## Structural diagram
