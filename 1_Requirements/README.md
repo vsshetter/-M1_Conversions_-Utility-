@@ -43,5 +43,21 @@ The number system is used for representing the information. In this project the 
 
 # Threats
 * Different innovative methods will become threat 
+* Obstacles are faced
 
 
+# 4W'S AND 1H
+# Who
+* Information to the students and usefull in industry 
+
+# What
+* A person can convert data into octal,gray,binary and excess-3 forms
+
+# When
+* Implemented at intital stages of making complex circuits 
+
+# Where
+* Can be used by students and circuit devolapers and also used for encryption of data
+
+# How
+* This project can perform various calculations at the same time make users task smooth and effortless
