@@ -9,4 +9,4 @@ number system conversions
 * Design
 * Test plan
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ffd42ecaa7e64f7cbd4dd29c51880652)](https://www.codacy.com/gh/vsshetter/M1_Conversions_-Utility-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vsshetter/M1_Conversions_-Utility-&amp;utm_campaign=Badge_Grade)
-[![Code Grade](https://api.codiga.io/project/<PROJECT_IDENTIFIER>/score/svg)](https://www.codiga.io)
+[![Code Grade](https://api.codiga.io/project/<>/score/svg)](https://www.codiga.io)
