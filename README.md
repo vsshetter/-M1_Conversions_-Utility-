@@ -20,7 +20,6 @@ Codiga
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Codiga Badge](https://api.codiga.io/project/31399/status/svg)](https://app.codiga.io/public/project/31399/M1_Conversions_-Utility-/dashboard)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Codiga Badge](https://api.codiga.io/project/31399/score/svg)](https://app.codiga.io/public/project/31399/M1_Conversions_-Utility-/dashboard)
